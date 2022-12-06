@@ -1,0 +1,272 @@
+.block1{
+    border-top: 20px solid red;
+    border-right: 20px solid greenyellow;
+    border-bottom: 20px solid blue;
+    border-left: 20px solid yellow;
+    width: 160px;
+    height: 160px;  
+}
+
+.block2{
+    border-right: 20px solid red;
+    border-bottom: 20px solid greenyellow;
+    border-left: 20px solid blue;
+    border-top: 20px solid yellow;
+    width: 120px;
+    height: 120px; 
+}
+
+.block3{
+    border-bottom: 20px solid red;
+    border-left: 20px solid greenyellow;
+    border-top: 20px solid blue;
+    border-right: 20px solid yellow;
+    width: 80px;
+    height: 80px; 
+}
+
+.block4{
+    border-left: 20px solid red;
+    border-top: 20px solid greenyellow;
+    border-right: 20px solid blue;
+    border-bottom: 20px solid yellow;
+    width: 40px;
+    height: 40px;
+}
+
+.block5{
+    border-top: 20px solid red;
+    border-right: 20px solid greenyellow;
+    border-bottom: 20px solid blue;
+    border-left: 20px solid yellow;
+    width: 0px;
+    height: 0px;
+}
+
+.box1{
+    border: 1px solid greenyellow;
+    border-radius: 4px;
+    background-color: greenyellow;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-right: 5px;
+}
+
+.box2{
+    border: 1px solid rgb(202, 9, 118);
+    color: white;
+    border-radius: 4px;
+    background-color: rgb(202, 9, 118);
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 32px;
+    padding-right:32px;
+    margin-right: 5px;
+}
+
+.box3{
+    color: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: black;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-right: 5px;
+}
+
+.box4{
+    color: black;
+    border: 1px solid black;
+    border-radius: 4px;
+    background-color: white;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 32px;
+    padding-right: 32px;
+    margin-right: 5px;
+}
+
+.red{
+    background-color: rgb(255, 93, 93);
+    width: 200px;
+    height: 200px;
+}
+
+.green{
+    background-color: greenyellow;
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;   
+}
+
+.blue{
+    background-color: rgb(47, 141, 199);
+    width: 400px;
+    height: 200px;
+}
+
+.pink{
+    background-color: rgb(221, 12, 95);
+    width: 50px;
+    height: 50px;   
+    position: relative;
+    top: 50px;
+    left: 40px;   
+}
+
+.green1{
+    background-color: yellowgreen;
+    width: 50px;
+    height: 50px;   
+    position: relative;
+    left: 50px;   
+}
+
+.blue1{
+    background-color: aqua;
+    width: 100px;
+    height: 50px;
+    position: relative;
+    top: 50px;
+    right: 50px;   
+}
+
+.boxred{
+    background-color: rgb(255, 93, 93);
+    width: 555px;
+    height: 750px;
+    margin-top: 60px;
+    padding-top: 100px;
+
+}
+
+.boxgreen1{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left: 233px;
+}
+.boxgreen2{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: -50px;
+    top: 100px;   
+}
+.boxgreen3{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen4{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: -150px;
+    top: 100px;
+}
+.boxgreen5{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen6{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen7{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: -250px;
+    top: 100px;
+}
+
+.boxgreen8{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen9{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen10{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen11{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: -350px;
+    top: 100px;
+}
+.boxgreen12{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen13{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen14{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen15{
+    background-color: greenyellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 100px;
+}
+.boxgreen16{
+    background-color: rgb(60, 44, 44);
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    left: -200px;
+    top: 100px;
+}
